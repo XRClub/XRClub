@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![XRClub's github stats](https://github-readme-stats.vercel.app/api?username=XRClub&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRClub&layout=compact)
